@@ -16,7 +16,7 @@ where the goal is to classify tweets as describing real disasters or not.
   ```
 
 ## 📘 Notebook
-The notebook [NLP-disaster-tweets.ipynb](github.com/MatoKamenicky/NLP-disaster-tweets/blob/main/NLP-disaster-tweets.ipynb) contains the full solution pipeline, including:
+The notebook [NLP-disaster-tweets.ipynb](https://github.com/MatoKamenicky/NLP-disaster-tweets/blob/main/NLP-disaster-tweets.ipynb) contains the full solution pipeline, including:
 - Data loading
 - Exploratory Data Analysis (EDA)
 - Tokenization
